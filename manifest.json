@@ -1,0 +1,14 @@
+{
+  "name": "Camera Recipe Translator",
+  "short_name": "Recipes",
+  "description": "Translate Fuji film recipes to Lumix and Canon camera settings",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#161d19",
+  "theme_color": "#161d19",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}
+  ]
+}
