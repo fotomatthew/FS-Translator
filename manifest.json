@@ -1,5 +1,5 @@
 {
-  "name": "Camera Recipe Translator",
+  "name": "Film Simulation Lab",
   "short_name": "FilSim Lab",
   "description": "Translate Fuji film recipes to Lumix and Canon camera settings",
   "start_url": "./",
